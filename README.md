@@ -1,0 +1,3 @@
+This repository includes a variety of Java programs and solutions designed using logic-based methodologies. These programs and logic-based solutions were created as a part of the successful CodeTantra Java Programming Course! CodeTantra is an interactive, AI-assisted learning and assessment platform used extensively by engineering colleges (including JNTUH) to bridge the gap between theoretical concepts related to Java and practical, hands-on experience.
+
+Throughout this course, the student is required to use a learn-by-doing approach because all of their programs will need to be evaluated with both hidden and public automated tests in order to verify the correctness, efficiency, and edge case compliance of their code.
