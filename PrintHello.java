@@ -1,4 +1,3 @@
-package q10801;
 public class PrintHello {
 public static void main(String[] args) {
 String text1 = "He";

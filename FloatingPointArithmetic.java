@@ -1,4 +1,3 @@
-package q10859;
 public class FloatingPointArithmetic {
 public static void main(String[] args) {
 double x = 0.2;

@@ -1,9 +1,9 @@
-package q35952;
+
 /**
 * This class has an example code for the addition operator
 * @author James Gosling
 */
-public class TestAddition {
+public class CommentLines {
 public int sum(int num1, int num2) {
 /* This is an example of a traditional comment,
 also called a star-comment or multi-line comment*/

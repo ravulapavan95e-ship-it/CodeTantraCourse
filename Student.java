@@ -1,4 +1,3 @@
-package q10737;
 public class Student {
 public static void main(String [] args){
 try {

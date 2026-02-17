@@ -1,4 +1,3 @@
-package q10774;
 public class ShortDemo {
 public static void main(String[] args) {
 short mangos = 3;

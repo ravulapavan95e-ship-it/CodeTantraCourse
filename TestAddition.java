@@ -1,4 +1,4 @@
-package q35952;
+
 /**
 * This class has an example code for the addition operator
 * @author James Gosling

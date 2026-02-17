@@ -1,4 +1,3 @@
-package q10793;
 public class CommandLineArgumentDemo {
 public static void main(String[] args) {
 System.out.println(args[1]);

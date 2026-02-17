@@ -1,4 +1,3 @@
-package q10770;
 public class IntegerDemo {
 public static void main(String args[]) {
 int decimalOne = 1;
@@ -15,7 +14,6 @@ System.out.println("hexTen = " + hexTen);
 char unicodeValueOfA = 'A';
 System.out.println("unicodeValue Of A = " + 65);
 char unicodeValueOfZ = 'Z';
-System.out.println("unicodeValue Of Z =
-" + 90);
+System.out.println("unicodeValue Of Z = " + 90);
 }
 }
